@@ -1,0 +1,52 @@
+{
+    "items":[
+        {
+            "sys": { "id": "22" },
+            "fields": {
+              "title": "CANNABIS SPACE CAKE PURPLE HAZE 100GR – MULTITRANCE AMSTERDAM",
+              "price": 19.99,
+              "image": { "fields": { "file": { "url": "spacecake.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "23" },
+            "fields": {
+              "title": "GREEN ENERGY ΒΙΟ – YOGI TEA",
+              "price": 19.99,
+              "image": { "fields": { "file": { "url": "tea.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "24" },
+            "fields": {
+              "title": "ΒΙΟΛΟΓΙΚΗ ΠΡΩΤΕΪΝΗ ΚΑΝΝΑΒΗΣ 500G – SEEDBIS",
+              "price": 19.99,
+              "image": { "fields": { "file": { "url": "bioprotein.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "25" },
+            "fields": {
+              "title": "ΜΠΑΡΑ ΠΡΩΤΕΙΝΗΣ ΜΕ ΒΑΝΙΛΙΑ ΚΑΙ ΣΟΚΟΛΑΤΑ GO ON (50 G)",
+              "price": 4.99,
+              "image": { "fields": { "file": { "url": "mparasok.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "26" },
+            "fields": {
+              "title": "ΜΠΑΡΑ ΠΡΩΤΕΪΝΗΣ ΜΕ ΓΕΥΣΗ ΒΑΝΙΛΙΑ & ΒΑΤΟΜΟΥΡΟ PROTEIN 33% GO ON NUTRITION (50G)",
+              "price": 4.99,
+              "image": { "fields": { "file": { "url": "mparabatomouro.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "27" },
+            "fields": {
+              "title": "ΤΣΙΧΛΕΣ ΚΑΝΝΑΒΗΣ MEDICAL WHITE WIDOW – MULTITRANCE",
+              "price": 2.99,
+              "image": { "fields": { "file": { "url": "tsixles.jpg" } } }
+            }
+          }
+    ]
+}

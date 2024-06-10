@@ -1,0 +1,60 @@
+{
+    "items":[
+        {
+            "sys": { "id": "1" },
+            "fields": {
+              "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+              "price": 9.99,
+              "image": { "fields": { "file": { "url": "Cbdoil.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "10" },
+            "fields": {
+              "title": "CBD OIL 24% – ENECTA",
+              "price": 9.99,
+              "image": { "fields": { "file": { "url": "cbdoil24.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "11" },
+            "fields": {
+              "title": "CBD OIL DROPS ORGANIC 15% CBD 1500MG 10ML PHYTO+",
+              "price": 19.99,
+              "image": { "fields": { "file": { "url": "cbdoil1500.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "12" },
+            "fields": {
+              "title": "CBD OIL PREMIUM CBD 5% 500MG CBD ENDROPIA",
+              "price": 19.99,
+              "image": { "fields": { "file": { "url": "cbdoil500.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "13" },
+            "fields": {
+              "title": "MOOD REFRESH & RESTORE ORAL SPRAY CBD 500MG (10ML)",
+              "price": 19.99,
+              "image": { "fields": { "file": { "url": "moodrefresh500.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "15" },
+            "fields": {
+              "title": "MOOD REVITALIZE & PROTECT ORAL SPRAY CBD 500MG (10ML)",
+              "price": 19.99,
+              "image": { "fields": { "file": { "url": "moodrevitalize.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "14" },
+            "fields": {
+              "title": "MOOD RELAX & DREAM ORAL SPRAY CBD 500MG (10ML)",
+              "price": 33.99,
+              "image": { "fields": { "file": { "url": "moodrelax.jpg" } } }
+            }
+          }
+    ]
+}

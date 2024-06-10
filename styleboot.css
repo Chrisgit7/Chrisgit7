@@ -1,0 +1,1199 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+:root{
+  --after-content:'2'
+}
+
+
+body {
+
+  margin: 0;
+
+  padding: 0;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-size: 15px;
+
+  line-height: 1.5;
+
+  background-color: #f4f4f4;
+
+  box-sizing: border-box;
+  background-image: url("back1.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 1100px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+#logo{
+    width:55px;
+    height:55px;
+  
+}
+#logo:hover{
+    opacity:0.7;
+}
+.navbar{
+    font-family: Montserrat,
+    sans-serif;
+    margin-bottom:0;
+    background-color: #04AA6D;
+    border:0;
+    font-size:11px !important;
+    letter-spacing:4px;
+    opacity:0.9;
+}
+.navbar li a, .navbar .navbar-brand{
+    color: white !important;
+}
+.navbar-nav li a:hover{
+    background-color: #04AA6D !important;
+}
+.open .dropdown-toggle{
+    color:#fff;
+    background-color: #555 !important;
+}
+.dropdown-menu li a{
+    color: #000 !important;
+}
+.dropdown-menu li a:hover{
+    background-color: #04AA6D;
+}
+h3, h4{
+    margin:10px 0 30px 0;
+    letter-spacing:6px;
+    font-size:20px;
+    color:#000000;
+}
+.card5 {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  background-color: #f0f0f0;
+  margin-bottom: 10px;
+}
+.product-ratings-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#single-product-container {
+  flex: 1;
+  margin-right: 20px; /* Απόσταση μεταξύ των προϊόντων και των βαθμολογιών */
+  max-width: 700px;
+}
+
+#ratings-container {
+  display: flex; /* Εμφανίζει τις βαθμολογίες ως ευέλικτο layout */
+  flex-wrap: wrap; /* Επιτρέπει στις βαθμολογίες να τυλίγονται στο χώρο */
+}
+
+#ratings-container li {
+  flex: 0 0 auto; /* Καθορίζει την αυτόματη αύξηση του πλάτους για κάθε βαθμολογία */
+  margin-right: 10px; /* Προσθέτει κενό μεταξύ των βαθμολογιών για να διαχωρίζονται */
+  margin-bottom: 10px; /* Προσθέτει κενό κάτω από κάθε βαθμολογία */
+}
+#ratings-container p{
+  margin:auto auto;
+  font-size: 2.5rem;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: rgba(12, 70, 10, 0.904);
+}
+
+
+/* On mouse-over, add a deeper shadow */
+.card5:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.nav-icon{
+  font-size: 1.5rem;
+}
+.nav1-icon{
+  font-size: 1.5rem;
+}
+.container2{
+  background-image: url(rasta.jpg);
+  width: 100%;
+
+}
+.cart-btn{
+  position: relative;
+  cursor: pointer;
+  margin-right: 30px;
+  text-align: right;
+}
+.cart-items{
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background: #04AA6D;
+  padding: 0 5px;
+  border-radius: 30%;
+  color: #ccc;
+}
+.heart-btn{
+  position: relative;
+  cursor: pointer;
+  margin-right: 10px;
+  text-align: right;
+}
+.heart-items{
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background: #04AA6D;
+  padding: 0 5px;
+  border-radius: 30%;
+  color: #ccc;
+}
+.container-fluid input[type=text]{
+  width: 200px;
+  margin-right: 70px;
+}
+.container-fluid .fa-search{
+  width:50px;
+  height: 20px;
+  cursor:pointer;
+}
+.checkout-content {
+  min-height: 300px; /* Ρυθμίστε το επιθυμητό ύψος */
+  border: 1px solid #ddd; /* Προσθέστε όρια για να δείτε τις διαστάσεις του στοιχείου */
+  padding: 20px; /* Προσθέστε padding αν χρειάζεται */
+}
+#result.products-center{
+  display: grid;
+  place-items: center;
+
+}
+#result.favorites-center{
+  display: grid;
+  place-items: center;
+
+}
+
+#result.products-center p{
+  justify-self: center;
+
+    font-size: 3rem;
+  color: #04AA6D;
+
+}
+h1.display-1{
+  grid-column: 1 / -1;
+  grid-row: 1 / -1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #f0f0f0; /* Optional: background color */
+  padding: 10px;
+  font-size: 70px;
+  color: #333;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a.newcustom:link{
+  margin-right: 1500px;
+}
+/*buttons for categories*/
+.btn-success{
+  margin-left: 5px;
+  padding: 3px 100px;
+  margin-bottom: 10px;
+}
+.btn-danger{
+  margin-right:5px;
+  padding: 3px 100px;
+}
+
+.btn-dark{
+  padding: 3px 200px;
+  margin-bottom: 50px;
+}
+
+.card.px-4{
+  margin-bottom: 100px;
+  margin-top:80px;
+}
+.card{
+  background-color: #9b7b57;
+}
+._success {
+  box-shadow: 0 15px 25px #00000019;
+  padding: 45px;
+  width: 100%;
+  text-align: center;
+  margin: 40px auto;
+  border-bottom: solid 4px #1c8635;
+}
+
+._success i {
+  font-size: 55px;
+  color: #02330d;
+}
+
+._success h2 {
+  margin-bottom: 12px;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 1.2;
+  margin-top: 10px;
+}
+
+._success p {
+  margin-bottom: 0px;
+  font-size: 18px;
+  color: #495057;
+  font-weight: 500;
+}
+
+.svg-inline--fa.fa-check-circle.fa-w-16{
+  color: #04AA6D;
+  width: 100%;
+  height: 100px;
+}
+#payment-button{
+  color: #04AA6D;
+  width: 100%;
+  height: 10px;
+}
+/*products*/
+.products{
+  padding: 4rem 0;
+}
+.section-title h2{
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 5rem;
+  text-transform: capitalize;
+}
+.products-center{
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px,  1fr));
+  grid-column-gap:1.5rem;
+  grid-row-gap:2rem;
+}
+article.product{
+  padding: 4rem 0;
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: #9b7b57;
+}
+article.favorites{
+  padding: 4rem 0;
+   /* Add shadows to create the "card" effect */
+   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   transition: 0.3s;
+   background-color: #9b7b57;
+}
+
+article.favorites h3{
+  text-transform: capitalize;
+  font-size: 1.1rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img-container{
+  position: relative;
+  overflow: hidden;
+}
+.single-product-container {
+  width: 90vw;
+  margin-bottom:100px;
+  margin-top: 100px;
+  margin-left: 20px;
+  height: 500px;
+  max-width: 500px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px,  1fr));
+  grid-column-gap:1.5rem;
+  grid-row-gap:2rem;
+}
+.single-product-container .card5 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  background-color: #f0f0f0;
+  margin-bottom: 10px;
+}
+
+.single-product-container .img-container {
+  display: block;
+  width: 100%;
+  height:20rem;
+  transition: all 0.3s linear;}
+
+/* Και ούτω καθεξής */
+
+.bag-btn{
+  position: absolute;
+  top:70%;
+  right: 0;
+  background: #04AA6D;
+  border: none;
+  text-transform: uppercase;
+  padding: 0.5rem 0.75rem;
+  font-weight: bold;
+  transition: all 0.3s linear;
+  transform: translateX(101%);
+  cursor: pointer;
+}
+.favorite-btn {
+  background-color: #04AA6D;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  font-size: 14px;
+}
+.favorite-btn:hover{
+  color: #000;
+}
+.favorite1-btn{
+  background-color: #04AA6D;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  font-size: 14px
+}
+
+.bag-btn:hover{
+  color: #000;
+}
+.fa-cart-plus{
+  margin-right: 0.5rem;
+  color: #9b7b57;
+}
+.fa-heart{
+  margin-left: 0.5rem;
+  color: #9b7b57;
+}
+
+.img-container:hover .bag-btn{
+  transform: translateX(0);
+}
+.product {
+  border: 1px solid #04AA6D; /* Πάχος πλαισίου και χρώμα */
+  padding: 10px; /* Απόσταση εσωτερικού περιεχομένου από το πλαίσιο */
+  border-radius: 5px; /* Στρογγυλεμένες γωνίες */
+}
+.product-img{
+  display: block;
+  width: 100%;
+  height:15rem;
+  transition: all 0.3s linear;
+}
+.favorite-img{  display: block;
+  width: 100%;
+  height:15rem;
+  transition: all 0.3s linear;
+}
+.img-container:hover .product-img{
+  opacity: 0.5;
+}
+.product h3{
+  text-transform: capitalize;
+  font-size: 1.1rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+
+.product h4{
+  margin-top: 0.7rem;
+  background-color:#2d2d30;
+  color: white;
+  text-align: center;
+}
+
+.img-container {
+  text-align: center;
+}
+img.favorites-img{
+  display: block;
+  width: 100%;
+  height:15rem;
+  transition: all 0.3s linear;
+}
+.heart-items {
+  font-size: 1.2em;
+  color: white;
+}
+.favorites-container {
+  display: grid;
+  place-items: center;
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px,  1fr));
+  grid-column-gap:1.5rem;
+  grid-row-gap:2rem;
+
+}
+
+
+
+#result.products-center p{
+  grid-column: 1 / -1;
+  grid-row: 1 / -1;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #f0f0f0; /* Optional: background color */
+  padding: 20px;
+  font-size: 3rem;
+  color: #333;
+  margin-bottom: 150px;
+  margin-top:100px;
+}
+/* Στυλισμός για τα στοιχεία βαθμολογίας */
+.rating {
+  margin: auto auto;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+.rating p {
+  margin: 5px 0;
+}
+
+.rating p:first-child {
+  font-weight: bold;
+}
+
+/* Προσαρμογή στοιχείων βαθμολογίας στο δεξί μέρος της σελίδας */
+#ratings-container {
+  float: right;
+  width: 40%;
+  margin-top: 20px;
+}
+
+/* Ανακατεύθυνση στοιχείων βαθμολογίας */
+@media screen and (max-width: 768px) {
+  #ratings-container {
+      float: none;
+      width: 100%;
+  }
+}
+
+
+/* Προσαρμόστε τα χρώματα και τα χαρακτηριστικά σύμφωνα με τις ανάγκες σας */
+
+/* Στυλ της εικόνας του προϊόντος αναζήτησης */
+.searched-products {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr)); /* 4 στήλες */
+  gap: 20px;
+}
+/* Ρυθμίστε τη διάταξη του grid system για τα προϊόντα */
+.products-center {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr)); /* 4 στήλες */
+  gap: 20px;
+  /* Άλλα στυλ που θέλετε να διατηρήσετε */
+}
+
+/* Media query για μικρότερες οθόνες (π.χ. smartphones) */
+@media (max-width: 768px) {
+  .products-center {
+    grid-template-columns: repeat(auto-fill, minmax(45%, 1fr));
+    gap: 10px;
+    /* Άλλες απαραίτητες αλλαγές για μικρότερες οθόνες */
+  }
+  .favorites {
+    grid-template-columns: repeat(auto-fill, minmax(45%, 1fr));
+    gap: 10px;
+    /* Άλλες απαραίτητες αλλαγές για μικρότερες οθόνες */
+  }
+}
+#no-results-message {
+    display: none;
+    text-align: center;
+    font-size: 5rem;
+    color: #28a745; 
+    font-family: sans-serif; /* Επιλογή γραμματοσειράς */
+    padding: 20px; /* Περιθώριο εσωτερικά */
+    background-color: #f0f0f0; /* Φόντο χρώμα */
+    border-radius: 10px; /* Στρογγυλεμένες γωνίες */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Σκιά */
+    margin: 20px auto; /* Κεντράρισμα οριζόντια */
+    max-width: 80%; /* Μέγιστο πλάτος */
+   
+}
+.aboutmes p{
+  font-size: 2rem;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.photocontainer {
+  width: 100%; /* Πλήρης εκτέλεση οριζόντιας εκτεταμένης φωτογραφίας */
+  max-width: 2500px;
+  margin: auto;
+  background-image: url('canacare-high-resolution-logo.png'); /* Αντικαταστήστε με τη διαδρομή της φωτογραφίας σας */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 400px; /* Ύψος της φωτογραφίας */
+  border-radius: 10px; /* Στρογγυλεμένες γωνίες */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Σκίαση */
+}
+
+
+img.food.img-circle{
+  width: 300px;
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+
+}
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.searched-products .product .product-img {
+  display: block;
+  width: 100%;
+  height: 15rem;
+  transition: all 0.3s linear;
+}
+
+/* Στυλ της εικόνας του προϊόντος αναζήτησης κατά την αιώρηση (hover) */
+.searched-products .product .product-img:hover {
+  opacity: 0.5;
+}
+
+/* Στυλ του τίτλου του προϊόντος αναζήτησης */
+.searched-products .product h3 {
+  text-transform: capitalize;
+  font-size: 1.1rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+/* Στυλ της τιμής του προϊόντος αναζήτησης */
+.searched-products .product h4 {
+  margin-top: 0.7rem;
+  background-color: #2d2d30;
+  color: white;
+  text-align: center;
+}
+
+
+
+
+/*CART*/
+.cart-overlay{
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  background: #04AA6D;
+  z-index: 2;
+  visibility: hidden; 
+}
+.cart{
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+  z-index: 3;
+  background: #ddd;
+  padding: 1.5rem;
+  transition: all 0.3s linear; 
+  transform:translateX(100%);
+}
+.cart h2{
+  text-align: center;
+}
+.showCart{
+  transform: translateX(0);
+}
+.transparentBcg{
+  visibility: visible;
+}
+#checkout-page .cart {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  position: fixed;
+  top: 80px; /* Ύψος του navbar. Αλλάξτε ανάλογα με το σχεδιασμό σας */
+  left: 0;
+  margin: 0;
+}
+
+
+
+@media screen  and (min-width: 768px) {
+  .cart  {
+    width:30vw;
+    min-width: 450px;
+  }
+}
+.close-cart{
+  font-size: 1.7rem;
+  cursor: pointer;
+}
+.cart-h2{
+  text-transform: capitalize;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+
+/*CART ITEM*/
+.cart-item{
+  display: grid;
+  align-items: center;
+  grid-template-columns: auto 1fr auto;
+  grid-column-gap:1.5rem;
+  margin: 1.5rem 0;
+}
+.cart-item img{
+  width: 75px;
+  height: 75px;
+}
+.cart-item h4{
+  font-size: 0.85rem;
+  text-transform: capitalize;
+}
+.cart-item h5{
+  margin: 0.5rem 0;
+}
+.item-amount{
+  text-align: center;
+}
+.remove-item{
+  color: gray;
+  cursor: pointer;
+}
+.fa-chevron-up,
+.fa-chevron-down{
+  color: #04AA6D;
+  cursor: pointer;
+}
+
+
+/* cart footer*/
+.cart-footer{
+  margin-top: 2rem;
+  text-align: center;
+}
+.cart-footer h3{
+  text-transform: capitalize;
+  margin-bottom: 1rem;
+}
+/*end of cart*/
+
+.carousel-inner{
+  overflow:visible;
+  position: relative;
+   width: 80%;
+   overflow: hidden;
+   height: 600px;
+   margin: 0 auto;
+}
+
+
+
+
+a,
+a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+
+#myCarousel{
+    margin-top:50px;
+}
+.carousel-inner img{
+    width:250px;
+    height:500px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline:#04AA6D;
+  background-color: #04AA6D;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 1px solid #04AA6D;
+}
+.container{
+    padding:80px 120px;
+}
+#demo1, #demo2, #demo3{
+    text-align:center;
+   
+}
+.btn.btn-primary{
+  background-color: #04AA6D;
+  color: white;
+  padding: 7px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+button#payment-button.btn.btn-primary{
+  background-color: #04AA6D;
+  color: white;
+  padding: 7px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.food{
+    border:10px solid transparent;
+    margin-bottom: 25px;
+    margin-left: 60px;
+    width: 250px;
+    height:200px;
+    opacity:0.7;
+}
+
+
+.food:hover{
+    border-color:#f1f1f1;
+}
+.bg-1{
+    background-image: url("CBD2.5.jpg");
+    width: 100%;
+    background-size: cover; /* Προσαρμόστε το ύψος σύμφωνα με το περιεχόμενο */
+    background-position: center;
+}
+.bg-1 h3{
+    color:black !important;
+    font-size: 40px;
+}
+.bg-1 p{
+    font-style:italic;
+    font-size: 20px;
+}
+.btn1{
+  font-size: 15px;
+  padding: 12px 28px;
+  width: 50%;
+}
+
+/*----cart items----*/
+.cart-page{
+  margin: 80px auto;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+.cart-info{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+th{
+ text-align: left;
+ padding: 5px;
+ color: #fff;
+ background: darkolivegreen;
+ font-weight: normal;
+
+}
+td{
+  padding: 10px 5px;
+}
+td input{
+  width:40px;
+  height: 30px;
+  padding: 5px;
+}
+td a{
+  color:#04AA6D ;
+  font-size: 12px;
+}
+td img{
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
+
+}
+.total-price{
+  display: flex;
+  justify-content: flex-end;
+}
+.total-price table{
+  border-top:3px solid darkolivegreen;
+  width:100%;
+  max-width: 350px;
+
+}
+td:last-child{
+  text-align: right;
+}
+th:last-child{
+  text-align: right;
+}
+strong{
+  font-size: 1.2rem;
+}
+.products-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-item {
+  flex: 0 0 calc(33.333% - 20px); /* Ορίζει το πλάτος κάθε προϊόντος σε τρία τρίτα του γονικού container, αφαιρώντας ένα μικρό περιθώριο */
+  margin: 10px;
+  box-sizing: border-box; /* Αποφεύγει την προσθήκη επιπλέον padding/border στο συνολικό πλάτος του προϊόντος */
+}
+
+.product-info {
+  text-align: center;
+}
+
+.product-info img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.product-info h3 {
+  margin: 0;
+}
+
+
+/* Bordered form */
+form {
+    border: 3px solid #f1f1f1;
+    width: 70%; /* Μειωμένο πλάτος της φόρμας */
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+  
+  /* Full-width inputs */
+  input[type=text], input[type=password] {
+    width: 300px;
+    height: 50px;    padding: 22px 10px;
+    margin: 16px 2px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  input.form-control1{
+    width: 100%;
+   text-align: center;
+
+  }
+  /* Set a style for all buttons */
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Extra style for the cancel button (red) */
+  .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #04AA6D;
+  }
+  
+  /* Center the avatar image inside this container */
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  /* Avatar image */
+  img.avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
+  
+  /* Add padding to containers */
+  .container {
+    padding: 16px;
+  }
+  
+  /* The "Forgot password" text */
+  span.psw {
+    float: center;
+    padding-top: 16px;
+  }
+  /* New Acc*/
+  span.new{
+    float:right;
+    padding-top:16px;
+  }
+  
+  /* Change styles for span and cancel button on extra small screens */
+  @media screen and (max-width: 300px) {
+    span.psw {
+      display: block;
+      float: none;
+    }
+    span.new{
+        display:block;
+        float:none;
+    }
+    .cancelbtn {
+      width: 100%;
+    }
+    
+  }
+  * {box-sizing: border-box}
+
+  /* Full-width input fields */
+    input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+  .products-image {
+    max-width: 10%; /* Καθορίζει το μέγιστο πλάτος στο 100% του περιεχομένου του παρόγχου */
+    max-height: 40px; /* Καθορίζει το μέγιστο ύψος σε 400 pixels */
+  
+}
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  button:hover {
+    opacity:1;
+  }
+/* Bordered form */
+form {
+    border: 3px solid #f1f1f1;
+  }
+  
+  /* Full-width inputs */
+input[type=text], input[type=password] {
+    
+    width: 100%;
+    padding: 20px 40px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #13a856;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Extra style for the cancel button (red) */
+  .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+  }
+  
+  /* Center the avatar image inside this container */
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  /* Avatar image */
+  img.avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
+  
+  /* Add padding to containers */
+  .container {
+    padding: 16px;
+  }
+  
+  /* The "Forgot password" text */
+  span.psw {
+    float: center;
+    padding-top: 16px;
+  }
+  span.new{
+    float:right;
+    padding-top: 16px;
+  }
+  .gradient-custom {
+    background: radial-gradient(50% 123.47% at 50% 50%, #00ff94 0%, #720059 100%),
+      linear-gradient(121.28deg, #669600 0%, #ff0000 100%),
+      linear-gradient(360deg, #0029ff 0%, #8fff00 100%),
+      radial-gradient(100% 164.72% at 100% 100%, #6100ff 0%, #00ff57 100%),
+      radial-gradient(100% 148.07% at 0% 0%, #fff500 0%, #51d500 100%);
+    background-blend-mode: screen, color-dodge, overlay, difference, normal;
+  }
+  .custom-small-button {
+    width: 40%; /* Ορίστε το επιθυμητό πλάτος */
+    height: 12px; /* Ορίστε το επιθυμητό ύψος */
+  }
+  
+  
+  /* Change styles for span and cancel button on extra small screens */
+  @media screen and (max-width: 300px) {
+    span.psw {
+      display: block;
+      float: none;
+    }
+    span.new{
+        display:block;
+        float:none;
+    }
+    .cancelbtn {
+      width: 100%;
+    }
+  } 
+  /*user profil*/
+  .form-control:focus {
+    box-shadow: none;
+    border-color: #BA68C8
+}
+
+.profile-button {
+    background: rgb(99, 39, 120);
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+    background: #682773
+}
+
+.profile-button:focus {
+    background: #682773;
+    box-shadow: none
+}
+
+.profile-button:active {
+    background: #682773;
+    box-shadow: none
+}
+
+.back:hover {
+    color: #682773;
+    cursor: pointer
+}
+
+.labels {
+    font-size: 11px
+}
+
+.add-experience:hover {
+    background: #BA68C8;
+    color: #fff;
+    cursor: pointer;
+    border: solid 1px #BA68C8
+}  
+.dark-footer {
+  position: relative;
+  width: 100%;
+  padding: 2rem 0;
+  background-color: #2d2d30;
+  margin-bottom: 0px;
+  color: #fff;
+}
+
+.dark-footer h3 {
+  color: #fff;
+}
+
+.dark-footer p {
+  color: #ccc;
+}
+
+.dark-footer a {
+  color: #04AA6D;
+}
+
+.dark-footer a:hover {
+  color: #fff;
+}
+
+.dark-footer .social-links a {
+  color: #fff;
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.dark-footer .social-links a:hover {
+  color: #04AA6D;
+}
+
+.dark-footer hr {
+  border-top: 1px solid #777;
+}
+
+.dark-footer .copyright {
+  color: #777;
+}

@@ -1,0 +1,60 @@
+{
+    "items":[
+        {
+            "sys": { "id": "3" },
+            "fields": {
+              "title": "ENECTA BODY LOTION 200mg CBD 200ml",
+              "price": 9.99,
+              "image": { "fields": { "file": { "url": "Sampouan.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "4" },
+            "fields": {
+              "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML – ENDROPIA",
+              "price": 19.99,
+              "image": { "fields": { "file": { "url": "Sampouan2.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "5" },
+            "fields": {
+              "title": "BODY BUTTER CANNABIS OIL & ARGAN OIL 280ML & 125ML- ENDROPIA",
+              "price": 9.99,
+              "image": { "fields": { "file": { "url": "butter.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "6" },
+            "fields": {
+              "title": "FACE MASK FIRMING – MOISTURIZING CANNABIS OIL ALOE VERA 80ML – ENDROPIA",
+              "price": 9.99,
+              "image": { "fields": { "file": { "url": "maskaproswpou.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "7" },
+            "fields": {
+              "title": "SOAP POMEGRANATE CANNABIS OIL 150 GR – ENDROPIA",
+              "price": 14.99,
+              "image": { "fields": { "file": { "url": "sapouni.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "8" },
+            "fields": {
+              "title": "ΒΙΟΛΟΓΙΚΗ ΟΔΟΝΤΟΚΡΕΜΑ ΠΟΛΥΛΕΙΤΟΥΡΓΙΚΗΣ ΧΡΗΣΗΣ ΜΕ ΕΛΑΙΟ ΚΑΝΑΒΗΣ 75ML – ECODENTA ORGANIC",
+              "price": 9.99,
+              "image": { "fields": { "file": { "url": "odontokrema.jpg" } } }
+            }
+          },
+          {
+            "sys": { "id": "9" },
+            "fields": {
+              "title": "ΠΑΚΕΤΟ ΠΡΟΣΦΟΡΑΣ RELIEF BODY PAIN PACK",
+              "price": 19.99,
+              "image": { "fields": { "file": { "url": "paketo.jpg" } } }
+            }
+          }
+    ]
+}

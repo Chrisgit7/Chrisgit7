@@ -1,0 +1,220 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+        "price": 9.99,
+        "image": { "fields": { "file": { "url": "Cbdoil.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR – SEEDBIS",
+        "price": 9.99,
+        "image": { "fields": { "file": { "url": "gellato.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "ENECTA BODY LOTION 200mg CBD 200ml",
+        "price": 9.99,
+        "image": { "fields": { "file": { "url": "Sampouan.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML – ENDROPIA",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "Sampouan2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "BODY BUTTER CANNABIS OIL & ARGAN OIL 280ML & 125ML- ENDROPIA",
+        "price": 9.99,
+        "image": { "fields": { "file": { "url": "butter.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "FACE MASK FIRMING – MOISTURIZING CANNABIS OIL ALOE VERA 80ML – ENDROPIA",
+        "price": 9.99,
+        "image": { "fields": { "file": { "url": "maskaproswpou.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "SOAP POMEGRANATE CANNABIS OIL 150 GR – ENDROPIA",
+        "price": 14.99,
+        "image": { "fields": { "file": { "url": "sapouni.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "ΒΙΟΛΟΓΙΚΗ ΟΔΟΝΤΟΚΡΕΜΑ ΠΟΛΥΛΕΙΤΟΥΡΓΙΚΗΣ ΧΡΗΣΗΣ ΜΕ ΕΛΑΙΟ ΚΑΝΑΒΗΣ 75ML – ECODENTA ORGANIC",
+        "price": 9.99,
+        "image": { "fields": { "file": { "url": "odontokrema.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "ΠΑΚΕΤΟ ΠΡΟΣΦΟΡΑΣ RELIEF BODY PAIN PACK",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "paketo.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "CBD OIL 24% – ENECTA",
+        "price": 9.99,
+        "image": { "fields": { "file": { "url": "cbdoil24.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "CBD OIL DROPS ORGANIC 15% CBD 1500MG 10ML PHYTO+",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "cbdoil1500.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "CBD OIL PREMIUM CBD 5% 500MG CBD ENDROPIA",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "cbdoil500.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "MOOD REFRESH & RESTORE ORAL SPRAY CBD 500MG (10ML)",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "moodrefresh500.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "MOOD RELAX & DREAM ORAL SPRAY CBD 500MG (10ML)",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "moodrelax.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "MOOD REVITALIZE & PROTECT ORAL SPRAY CBD 500MG (10ML)",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "moodrevitalize.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "BLACK MAMBA BOSS 2GR 78% CBD – WEED GAME",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "blackmaba.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "CBD FLOWER KALAMATA HAZE 52% CBD 1GR SEEDBIS",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "cbdkalamata.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "title": "ΑΚΑΤΕΡΓΑΣΤΟΙ ΑΝΘΟΙ ΚΑΝΝΑΒΗΣ ΤΡΙΜΜΑ ΙΤΑΛΙΚΟ CBD 48% 35GR – SEEDBIS",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "trimaitaliko.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "19" },
+      "fields": {
+        "title": "ΑΝΘΟΙ ΚΑΝΝΑΒΗΣ MAGIC TREE 87% CBD 2GR & GR5 – BUD HUNTERS",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "magictree.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "20" },
+      "fields": {
+        "title": "ΑΝΘΟΙ ΚΑΝΝΑΒΗΣ SKYFALL 27% CBD 1GR & 2GR & 4GR – SEEDBIS",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "skyfall.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "21" },
+      "fields": {
+        "title": "ΑΚΑΤΕΡΓΑΣΤΟΙ ΑΝΘΟΙ ΚΑΝΝΑΒΗΣ WHITE WIDOW ΤΡΙΜΜΑ ΕΛΛΗΝΙΚΟ CBG 52% 35GR – SEEDBIS",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "trimaellhniko.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "22" },
+      "fields": {
+        "title": "CANNABIS SPACE CAKE PURPLE HAZE 100GR – MULTITRANCE AMSTERDAM",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "spacecake.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "23" },
+      "fields": {
+        "title": "GREEN ENERGY ΒΙΟ – YOGI TEA",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "tea.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "24" },
+      "fields": {
+        "title": "ΒΙΟΛΟΓΙΚΗ ΠΡΩΤΕΪΝΗ ΚΑΝΝΑΒΗΣ 500G – SEEDBIS",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "bioprotein.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "25" },
+      "fields": {
+        "title": "ΜΠΑΡΑ ΠΡΩΤΕΙΝΗΣ ΜΕ ΒΑΝΙΛΙΑ ΚΑΙ ΣΟΚΟΛΑΤΑ GO ON (50 G)",
+        "price": 4.99,
+        "image": { "fields": { "file": { "url": "mparasok.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "26" },
+      "fields": {
+        "title": "ΜΠΑΡΑ ΠΡΩΤΕΪΝΗΣ ΜΕ ΓΕΥΣΗ ΒΑΝΙΛΙΑ & ΒΑΤΟΜΟΥΡΟ PROTEIN 33% GO ON NUTRITION (50G)",
+        "price": 4.99,
+        "image": { "fields": { "file": { "url": "mparabatomouro.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "27" },
+      "fields": {
+        "title": "ΤΣΙΧΛΕΣ ΚΑΝΝΑΒΗΣ MEDICAL WHITE WIDOW – MULTITRANCE",
+        "price": 2.99,
+        "image": { "fields": { "file": { "url": "tsixles.jpg" } } }
+      }
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+[
+    {
+        "_id": {
+            "$oid": "6665865d65645fc15100ff18"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "xzxzxzxz"
+            },
+            {
+                "product_id": "10",
+                "title": "CBD OIL 24% \u2013 ENECTA",
+                "rating": "1",
+                "comment": "xzxzxz"
+            },
+            {
+                "product_id": "4",
+                "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "xzxz"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717929564998"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665a29b65645fc15100ff22"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "10",
+                "title": "CBD OIL 24% \u2013 ENECTA",
+                "rating": "5",
+                "comment": "vbbvcb"
+            },
+            {
+                "product_id": "4",
+                "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML \u2013 ENDROPIA",
+                "rating": "5",
+                "comment": "vbbvbv"
+            },
+            {
+                "product_id": "25",
+                "title": "\u039c\u03a0\u0391\u03a1\u0391 \u03a0\u03a1\u03a9\u03a4\u0395\u0399\u039d\u0397\u03a3 \u039c\u0395 \u0392\u0391\u039d\u0399\u039b\u0399\u0391 \u039a\u0391\u0399 \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391 GO ON (50 G)",
+                "rating": "5",
+                "comment": "bvcbvvb"
+            },
+            {
+                "product_id": "24",
+                "title": "\u0392\u0399\u039f\u039b\u039f\u0393\u0399\u039a\u0397 \u03a0\u03a1\u03a9\u03a4\u0395\u03aa\u039d\u0397 \u039a\u0391\u039d\u039d\u0391\u0392\u0397\u03a3 500G \u2013 SEEDBIS",
+                "rating": "5",
+                "comment": "vbcbvvb"
+            },
+            {
+                "product_id": "2",
+                "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR \u2013 SEEDBIS",
+                "rating": "5",
+                "comment": "vbcbvvbbv"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717936795232"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665b67c65645fc15100ff2a"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "10",
+                "title": "CBD OIL 24% \u2013 ENECTA",
+                "rating": "1",
+                "comment": "cx"
+            },
+            {
+                "product_id": "4",
+                "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "xc"
+            },
+            {
+                "product_id": "25",
+                "title": "\u039c\u03a0\u0391\u03a1\u0391 \u03a0\u03a1\u03a9\u03a4\u0395\u0399\u039d\u0397\u03a3 \u039c\u0395 \u0392\u0391\u039d\u0399\u039b\u0399\u0391 \u039a\u0391\u0399 \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391 GO ON (50 G)",
+                "rating": "1",
+                "comment": "xc"
+            },
+            {
+                "product_id": "24",
+                "title": "\u0392\u0399\u039f\u039b\u039f\u0393\u0399\u039a\u0397 \u03a0\u03a1\u03a9\u03a4\u0395\u03aa\u039d\u0397 \u039a\u0391\u039d\u039d\u0391\u0392\u0397\u03a3 500G \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "xc"
+            },
+            {
+                "product_id": "2",
+                "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "cx"
+            },
+            {
+                "product_id": "7",
+                "title": "SOAP POMEGRANATE CANNABIS OIL 150 GR \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": ""
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717941884385"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665b73c65645fc15100ff2c"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "10",
+                "title": "CBD OIL 24% \u2013 ENECTA",
+                "rating": "1",
+                "comment": "cs"
+            },
+            {
+                "product_id": "4",
+                "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "sc"
+            },
+            {
+                "product_id": "25",
+                "title": "\u039c\u03a0\u0391\u03a1\u0391 \u03a0\u03a1\u03a9\u03a4\u0395\u0399\u039d\u0397\u03a3 \u039c\u0395 \u0392\u0391\u039d\u0399\u039b\u0399\u0391 \u039a\u0391\u0399 \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391 GO ON (50 G)",
+                "rating": "1",
+                "comment": "sc"
+            },
+            {
+                "product_id": "24",
+                "title": "\u0392\u0399\u039f\u039b\u039f\u0393\u0399\u039a\u0397 \u03a0\u03a1\u03a9\u03a4\u0395\u03aa\u039d\u0397 \u039a\u0391\u039d\u039d\u0391\u0392\u0397\u03a3 500G \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "cs"
+            },
+            {
+                "product_id": "2",
+                "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "sc"
+            },
+            {
+                "product_id": "7",
+                "title": "SOAP POMEGRANATE CANNABIS OIL 150 GR \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "sc"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717942076718"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665b8e465645fc15100ff2e"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "10",
+                "title": "CBD OIL 24% \u2013 ENECTA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8"
+            },
+            {
+                "product_id": "4",
+                "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8"
+            },
+            {
+                "product_id": "25",
+                "title": "\u039c\u03a0\u0391\u03a1\u0391 \u03a0\u03a1\u03a9\u03a4\u0395\u0399\u039d\u0397\u03a3 \u039c\u0395 \u0392\u0391\u039d\u0399\u039b\u0399\u0391 \u039a\u0391\u0399 \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391 GO ON (50 G)",
+                "rating": "1",
+                "comment": "\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8"
+            },
+            {
+                "product_id": "24",
+                "title": "\u0392\u0399\u039f\u039b\u039f\u0393\u0399\u039a\u0397 \u03a0\u03a1\u03a9\u03a4\u0395\u03aa\u039d\u0397 \u039a\u0391\u039d\u039d\u0391\u0392\u0397\u03a3 500G \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3"
+            },
+            {
+                "product_id": "2",
+                "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c8\u03c3\u03c3\u03c8"
+            },
+            {
+                "product_id": "7",
+                "title": "SOAP POMEGRANATE CANNABIS OIL 150 GR \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3"
+            },
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c3\u03c8"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717942500557"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665b94c65645fc15100ff2f"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "10",
+                "title": "CBD OIL 24% \u2013 ENECTA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8"
+            },
+            {
+                "product_id": "4",
+                "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8"
+            },
+            {
+                "product_id": "25",
+                "title": "\u039c\u03a0\u0391\u03a1\u0391 \u03a0\u03a1\u03a9\u03a4\u0395\u0399\u039d\u0397\u03a3 \u039c\u0395 \u0392\u0391\u039d\u0399\u039b\u0399\u0391 \u039a\u0391\u0399 \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391 GO ON (50 G)",
+                "rating": "1",
+                "comment": "\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8"
+            },
+            {
+                "product_id": "24",
+                "title": "\u0392\u0399\u039f\u039b\u039f\u0393\u0399\u039a\u0397 \u03a0\u03a1\u03a9\u03a4\u0395\u03aa\u039d\u0397 \u039a\u0391\u039d\u039d\u0391\u0392\u0397\u03a3 500G \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3"
+            },
+            {
+                "product_id": "2",
+                "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c8\u03c3\u03c3\u03c8"
+            },
+            {
+                "product_id": "7",
+                "title": "SOAP POMEGRANATE CANNABIS OIL 150 GR \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3"
+            },
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c3\u03c8"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717942604969"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665b94d65645fc15100ff30"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "10",
+                "title": "CBD OIL 24% \u2013 ENECTA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8"
+            },
+            {
+                "product_id": "4",
+                "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8"
+            },
+            {
+                "product_id": "25",
+                "title": "\u039c\u03a0\u0391\u03a1\u0391 \u03a0\u03a1\u03a9\u03a4\u0395\u0399\u039d\u0397\u03a3 \u039c\u0395 \u0392\u0391\u039d\u0399\u039b\u0399\u0391 \u039a\u0391\u0399 \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391 GO ON (50 G)",
+                "rating": "1",
+                "comment": "\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8"
+            },
+            {
+                "product_id": "24",
+                "title": "\u0392\u0399\u039f\u039b\u039f\u0393\u0399\u039a\u0397 \u03a0\u03a1\u03a9\u03a4\u0395\u03aa\u039d\u0397 \u039a\u0391\u039d\u039d\u0391\u0392\u0397\u03a3 500G \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3"
+            },
+            {
+                "product_id": "2",
+                "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c8\u03c3\u03c3\u03c8"
+            },
+            {
+                "product_id": "7",
+                "title": "SOAP POMEGRANATE CANNABIS OIL 150 GR \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3"
+            },
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8\u03c3\u03c8\u03c3\u03c3\u03c8"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717942605455"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665b95c65645fc15100ff32"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "10",
+                "title": "CBD OIL 24% \u2013 ENECTA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8"
+            },
+            {
+                "product_id": "4",
+                "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8"
+            },
+            {
+                "product_id": "25",
+                "title": "\u039c\u03a0\u0391\u03a1\u0391 \u03a0\u03a1\u03a9\u03a4\u0395\u0399\u039d\u0397\u03a3 \u039c\u0395 \u0392\u0391\u039d\u0399\u039b\u0399\u0391 \u039a\u0391\u0399 \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391 GO ON (50 G)",
+                "rating": "1",
+                "comment": "\u03c3\u03c8"
+            },
+            {
+                "product_id": "24",
+                "title": "\u0392\u0399\u039f\u039b\u039f\u0393\u0399\u039a\u0397 \u03a0\u03a1\u03a9\u03a4\u0395\u03aa\u039d\u0397 \u039a\u0391\u039d\u039d\u0391\u0392\u0397\u03a3 500G \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8"
+            },
+            {
+                "product_id": "2",
+                "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "\u03c3\u03c8"
+            },
+            {
+                "product_id": "7",
+                "title": "SOAP POMEGRANATE CANNABIS OIL 150 GR \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8"
+            },
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "\u03c3\u03c8"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717942620576"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665bb9165645fc15100ff33"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "10",
+                "title": "CBD OIL 24% \u2013 ENECTA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8"
+            },
+            {
+                "product_id": "4",
+                "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8"
+            },
+            {
+                "product_id": "25",
+                "title": "\u039c\u03a0\u0391\u03a1\u0391 \u03a0\u03a1\u03a9\u03a4\u0395\u0399\u039d\u0397\u03a3 \u039c\u0395 \u0392\u0391\u039d\u0399\u039b\u0399\u0391 \u039a\u0391\u0399 \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391 GO ON (50 G)",
+                "rating": "1",
+                "comment": "\u03c3\u03c8"
+            },
+            {
+                "product_id": "24",
+                "title": "\u0392\u0399\u039f\u039b\u039f\u0393\u0399\u039a\u0397 \u03a0\u03a1\u03a9\u03a4\u0395\u03aa\u039d\u0397 \u039a\u0391\u039d\u039d\u0391\u0392\u0397\u03a3 500G \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "\u03c3\u03c8\u03c3\u03c8"
+            },
+            {
+                "product_id": "2",
+                "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "\u03c3\u03c8"
+            },
+            {
+                "product_id": "7",
+                "title": "SOAP POMEGRANATE CANNABIS OIL 150 GR \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "\u03c3\u03c8"
+            },
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "\u03c3\u03c8"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717943185867"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665bbb665645fc15100ff35"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "10",
+                "title": "CBD OIL 24% \u2013 ENECTA",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "4",
+                "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "25",
+                "title": "\u039c\u03a0\u0391\u03a1\u0391 \u03a0\u03a1\u03a9\u03a4\u0395\u0399\u039d\u0397\u03a3 \u039c\u0395 \u0392\u0391\u039d\u0399\u039b\u0399\u0391 \u039a\u0391\u0399 \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391 GO ON (50 G)",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "24",
+                "title": "\u0392\u0399\u039f\u039b\u039f\u0393\u0399\u039a\u0397 \u03a0\u03a1\u03a9\u03a4\u0395\u03aa\u039d\u0397 \u039a\u0391\u039d\u039d\u0391\u0392\u0397\u03a3 500G \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "2",
+                "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "7",
+                "title": "SOAP POMEGRANATE CANNABIS OIL 150 GR \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "df"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717943222285"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665bbb665645fc15100ff36"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "10",
+                "title": "CBD OIL 24% \u2013 ENECTA",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "4",
+                "title": "AFTER SUN BODY LOTION CANNABIS OIL & ALOE VERA 250ML & 100ML \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "25",
+                "title": "\u039c\u03a0\u0391\u03a1\u0391 \u03a0\u03a1\u03a9\u03a4\u0395\u0399\u039d\u0397\u03a3 \u039c\u0395 \u0392\u0391\u039d\u0399\u039b\u0399\u0391 \u039a\u0391\u0399 \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391 GO ON (50 G)",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "24",
+                "title": "\u0392\u0399\u039f\u039b\u039f\u0393\u0399\u039a\u0397 \u03a0\u03a1\u03a9\u03a4\u0395\u03aa\u039d\u0397 \u039a\u0391\u039d\u039d\u0391\u0392\u0397\u03a3 500G \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "2",
+                "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "7",
+                "title": "SOAP POMEGRANATE CANNABIS OIL 150 GR \u2013 ENDROPIA",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "df"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717943222316"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665bc9c65645fc15100ff38"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "\u03c3\u03b4\u03c3\u03b4"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717943452300"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665bce165645fc15100ff3a"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "\u03b6\u03c7\u03b6\u03c7"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717943521405"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665bcf665645fc15100ff3b"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "\u03b6\u03c7\u03b6\u03c7"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717943542298"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665be1d65645fc15100ff3d"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "\u03c7\u03b6\u03b6\u03c7\u03c7\u03b6"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717943837901"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665beae65645fc15100ff3f"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "\u03b6\u03c7"
+            },
+            {
+                "product_id": "2",
+                "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "\u03b6\u03c7\u03b6\u03c7\u03b6\u03c7\u03c7\u03b6\u03b6\u03c7\u03b6\u03c7"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717943982082"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665bf3f65645fc15100ff41"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "1",
+                "title": "AMVROSIA - FULL SPECTRUM CBD OIL 5% LIGHT",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "2",
+                "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR \u2013 SEEDBIS",
+                "rating": "1",
+                "comment": "df"
+            },
+            {
+                "product_id": "3",
+                "title": "ENECTA BODY LOTION 200mg CBD 200ml",
+                "rating": "1",
+                "comment": "df"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717944127498"
+            }
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6665c1b965645fc15100ff43"
+        },
+        "user_id": "6663a0c7351e8b65720b9a2b",
+        "ratings": [
+            {
+                "product_id": "3",
+                "title": "ENECTA BODY LOTION 200mg CBD 200ml",
+                "rating": "1",
+                "comment": "c"
+            }
+        ],
+        "date": {
+            "$date": {
+                "$numberLong": "1717944761537"
+            }
+        }
+    }
+]

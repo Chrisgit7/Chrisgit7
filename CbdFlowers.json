@@ -1,0 +1,60 @@
+{
+"items":[
+    {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "HEMP FLOWERS POWER GELATO 27% CBD 2GR – SEEDBIS",
+          "price": 9.99,
+          "image": { "fields": { "file": { "url": "gellato.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "16" },
+        "fields": {
+          "title": "BLACK MAMBA BOSS 2GR 78% CBD – WEED GAME",
+          "price": 19.99,
+          "image": { "fields": { "file": { "url": "blackmaba.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "17" },
+        "fields": {
+          "title": "CBD FLOWER KALAMATA HAZE 52% CBD 1GR SEEDBIS",
+          "price": 19.99,
+          "image": { "fields": { "file": { "url": "cbdkalamata.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "18" },
+        "fields": {
+          "title": "ΑΚΑΤΕΡΓΑΣΤΟΙ ΑΝΘΟΙ ΚΑΝΝΑΒΗΣ WHITE WIDOW ΤΡΙΜΜΑ ΕΛΛΗΝΙΚΟ CBG 52% 35GR – SEEDBIS",
+          "price": 19.99,
+          "image": { "fields": { "file": { "url": "trimaitaliko.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "19" },
+        "fields": {
+          "title": "ΑΝΘΟΙ ΚΑΝΝΑΒΗΣ MAGIC TREE 87% CBD 2GR & GR5 – BUD HUNTERS",
+          "price": 19.99,
+          "image": { "fields": { "file": { "url": "magictree.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "20" },
+        "fields": {
+          "title": "ΑΝΘΟΙ ΚΑΝΝΑΒΗΣ SKYFALL 27% CBD 1GR & 2GR & 4GR – SEEDBIS",
+          "price": 19.99,
+          "image": { "fields": { "file": { "url": "skyfall.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "21" },
+        "fields": {
+          "title": "ΑΚΑΤΕΡΓΑΣΤΟΙ ΑΝΘΟΙ ΚΑΝΝΑΒΗΣ WHITE WIDOW ΤΡΙΜΜΑ ΕΛΛΗΝΙΚΟ CBG 52% 35GR – SEEDBIS",
+          "price": 19.99,
+          "image": { "fields": { "file": { "url": "trimaellhniko.jpg" } } }
+        }
+      }
+]
+}
